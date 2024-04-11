@@ -4,7 +4,7 @@
 
 ## Overview
 
-The GitHub Stats Chrome Extension is a convenient tool that allows users to quickly view their GitHub statistics directly from their browser toolbar. With just a click, users can see an image representation of their GitHub stats, including metrics like contributions, repositories, and more.
+The GitHub Stats Chrome Extension is a convenient tool allowing users to view their GitHub statistics directly from their browser toolbar. Users can see an image of their GitHub stats with just a click, including metrics like contributions, repositories, and more.
 
 ## Features
 
@@ -28,8 +28,16 @@ The GitHub Stats Chrome Extension is a convenient tool that allows users to quic
 
 ## Screenshots
 
-![GitHub Stats Chrome Extension Screenshot](assets/screenshot1.jpg)
-![GitHub Stats Chrome Extension Screenshot](assets/screenshot2.jpg)
+<table>
+  <tr>
+    <td style="padding:4;">
+      <img alt="Screenshot of the extension" src="assets/screenshot1.jpg"/>
+    </td>
+    <td style="padding:4;">
+      <img alt="Screenshot of the extension" src="assets/screenshot2.jpg"/>
+    </td>
+  </tr>
+</table>
 
 ## Feedback
 
