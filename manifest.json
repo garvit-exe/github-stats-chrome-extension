@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Git Stats",
+    "version": "1.0.0",
+    "description": "View your GitHub stats with a single click!",
+    "permissions": [
+        "storage"
+    ],
+    "action": {
+      "default_popup": "popup_user_interface_resources/popup.html",
+      "default_icon": {
+        "128": "assets/icon128.png"
+      }
+    },
+    "icons": {
+      "128": "assets/icon128.png"
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": [
+      "https://github-readme-stats-garvit-exe.vercel.app/"
+    ]
+}
